@@ -1,0 +1,12 @@
+{
+  "name": "zabap_demo",
+  "version": "1.0.0",
+  "description": "ZABAP_DEMO",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "keepClient": "false",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
